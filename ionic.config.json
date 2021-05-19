@@ -1,0 +1,15 @@
+{
+  "name": "PushTest",
+  "integrations": {
+    "cordova": {},
+    "gulp": {}
+  },
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ],
+  "gcm_key": "AIzaSyCz3fi1we2TOjYASUMcsrEAkfjyvKWR4Nw"
+}
